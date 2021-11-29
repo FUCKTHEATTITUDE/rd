@@ -37,9 +37,7 @@
 
 # See how it works All Version
 ----------------------
-- 🔞 v1.1.1 http://shorturl.at/wGVX4
-- 🔞 V1.2.2 http://shorturl.at/avBG9
-- 🔞 V1.2.3 https://youtu.be/bU3tBS46Ivc
+- 🔞 v1.1.4 https://t.me/M4nifest0/596
 
 # How to ger:
 ----------------------
