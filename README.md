@@ -35,11 +35,6 @@
 ----------------------
 📌 Version M4nifest0_Adder-Unlimited v1.1.4
 
-# Disclaimer:
-----------------------
-- 📌 This tool is designed and developed for professionals and researchers. So do not target others and do not test them for no reason :)
-
-
 # See how it works All Version
 ----------------------
 - 🔞 v1.1.1 http://shorturl.at/wGVX4
